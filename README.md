@@ -1,9 +1,5 @@
 # Design Document
 
-By Gleb Eliseev
-
-Video overview: <(https://www.youtube.com/watch?v=lOaVuT4s3d4)>
-
 ## Scope
 
 For my project i have decided to use MySql, instead of Sqlite3, below is the general information
