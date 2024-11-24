@@ -1,6 +1,6 @@
--- In this SQL file, write (and comment!) the schema of your database, including the CREATE TABLE, CREATE INDEX, CREATE VIEW, etc. statements that compose it
+-- In this SQL file, write (and comment!) the schema of your database, including the CREATE TABLE, CREATE INDEX, CREATE VIEW, etc. statements that compose it.
 
--- Let's start by creating our Dimension tables for customers and Products we are selling
+-- Let's start by creating our Dimension tables for customers and Products we are selling.
 
 CREATE TABLE `customers` (
     `customer_id` INT AUTO_INCREMENT PRIMARY KEY,
