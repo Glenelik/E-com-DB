@@ -1,1 +1,3 @@
 *.sql linguist-language=SQL
+*.log linguist-generated=true
+*.txt linguist-generated=true
