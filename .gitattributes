@@ -1,5 +1,4 @@
 *.sql linguist-language=SQL
-*.log linguist-generated=true
 *.txt linguist-generated=true
 *.jpg linguist-generated=true
 *.md linguist-documentation=true
