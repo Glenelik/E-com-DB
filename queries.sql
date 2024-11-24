@@ -1,4 +1,4 @@
--- Let's start with inserting some values to check if our queries are OK
+-- Let's start with inserting some values to check if our queries are OK.
 
 INSERT INTO customers (customer_name, email, phone, country, city, date_created)
 VALUES
